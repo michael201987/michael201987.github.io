@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Please click here for my CV](https://michael201987.github.io/MichaelC%20_Bulkaam_CV_2024.pdf
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
